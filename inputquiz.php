@@ -6,7 +6,6 @@ Nama Gedung:
 <option value="gedung A">Gedung A</option>
 <option value="gedung B">Gedung B</option>
 <option value="gedung C">Gedung C</option>
-<option value="gedung D">gedung d</option>
 <option value="Lain-lain">Lain-lain</option>
 </select>
 <br>
