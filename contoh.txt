@@ -1,0 +1,16 @@
+<html>
+<head>
+    <title> Masukan Data</title>
+</head>
+<body>
+    <h1> Masukan Identitas Anda<h1>
+    <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
+</pre>
+        Nama        : <input type="text" name="nama">
+        No Telp     : <input type="text" name="notelp">
+        Alamat      : <textarea name="alamat" rows="5" cols="40"></textarea>
+        Tempat lahir    :<input type="text" value="tempat_lahir">
+        Tanggal lahir   :<input type="text" value="tanggal_lahir">
+        Jenis kelamin   :<input type="text" name="jenis_kelamin"value=laki-laki>laki-laki 
+</body>
+</html>
